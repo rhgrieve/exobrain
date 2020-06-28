@@ -12,7 +12,8 @@
 
 ## Productivity
 
-* [Tools](productivity/tools.md)
+* [Tools](productivity/tools/README.md)
+  * [VS Code](productivity/tools/vs-code.md)
 * [Techniques](productivity/techniques.md)
 
 ## Culture
