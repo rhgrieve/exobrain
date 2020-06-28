@@ -15,3 +15,8 @@
 * [Tools](productivity/tools.md)
 * [Techniques](productivity/techniques.md)
 
+## Culture
+
+* [Languages](culture/languages.md)
+* [History](culture/history.md)
+
