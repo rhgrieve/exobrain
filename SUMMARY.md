@@ -2,11 +2,8 @@
 
 * [Home](README.md)
 
-## Religion & Spirituality
-
 ## Religion & Spirituality <a id="religion-and-spirituality-1"></a>
 
-* [Hinduism](religion-and-spirituality-1/hinduism.md)
 * [Hinduism](religion-and-spirituality-1/hinduism-1.md)
 
 ## Technology
