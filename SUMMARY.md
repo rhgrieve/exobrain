@@ -20,3 +20,8 @@
 * [Languages](culture/languages.md)
 * [History](culture/history.md)
 
+## Lists
+
+* [Books](lists/books.md)
+* [Movies](lists/movies.md)
+
