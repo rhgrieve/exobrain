@@ -12,5 +12,6 @@
 
 ## Productivity
 
+* [Techniques](productivity/techniques.md)
 * [Tools](productivity/tools.md)
 
