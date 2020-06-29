@@ -6,7 +6,7 @@
 
 A great site which contains several texts from A. C. Bhaktivedanta Swami Prabhupada
 
-#### Notable Works
+#### Notable Links
 
 * [Bhagavad-gītā As It Is](https://vedabase.io/en/library/bg/)
 * [Kṛṣṇa, the Supreme Personality of Godhead](https://vedabase.io/en/library/kb/)
